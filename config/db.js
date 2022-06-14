@@ -10,9 +10,9 @@ const mysql = require("serverless-mysql")();
 
 mysql.config({
   host: "localhost",
-  database: "data",
+  database: "moneyhunt",
   user: "root",
-  password: "India@100",
+  password: "mynewpassword",
 });
 
 // pool.getConnection((err) => {

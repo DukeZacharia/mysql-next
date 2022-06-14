@@ -16,10 +16,10 @@ function EmployeeList({ employeeData }) {
       <table className={styles.table}>
         <thead className={styles.thead}>
           <tr>
-            <th className={styles.th}>EmployeeId</th>
-            <th className={styles.th}>EmployeeName</th>
-            <th className={styles.th}>EmployeeEmail</th>
-            <th className={styles.th}>EmployeeAddress</th>
+            <th className={styles.th}>종목명(종목코드)</th>
+            <th className={styles.th}>현재가</th>
+            <th className={styles.th}>주간 수익률 </th>
+            <th className={styles.th}>선익시스템</th>
             <th className={styles.th}>EmployeePhone</th>
             <th className={styles.th}>Actions</th>
           </tr>

@@ -6,7 +6,7 @@ function Header() {
     <>
       <div className={styles.header}>
         <h1>
-          <Link href={"/"}>EmployeeManagement</Link>
+          <Link href={"/"}>MONEYHUNT</Link>
         </h1>
         <ul className={styles.ul}>
           <li className={styles.li}>

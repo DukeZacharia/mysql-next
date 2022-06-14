@@ -4,6 +4,7 @@ export default function Home() {
     <>
       <Header />
       <h1>DESIGN THIS PAGE BY YOUR SELF</h1>
+      <h2>Hello world</h2>
       <p>You can design here anything related to employee</p>
     </>
   );
